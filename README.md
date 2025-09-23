@@ -17,11 +17,9 @@
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/anugrah-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anugrah-k" height="30" width="40" /></a>
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<a href="mailto:anugrah.k910@gmail.com" target="blank">
-    <i class="material-icons" style="font-size: 30px;">mail</i>
-</a>
+  <a href="https://github.com/anugrahk21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anugrah-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anugrah.k910@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <h3 align="center">💻 Languages and Tools:</h3>
