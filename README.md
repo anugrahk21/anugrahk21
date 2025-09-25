@@ -68,10 +68,13 @@
 <summary>🎮 Alternative Snake Views</summary>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anugrahk21/anugrahk21/output/custom-growing-snake.svg" alt="Custom Growing Snake" />
+  <img src="https://raw.githubusercontent.com/anugrahk21/anugrahk21/output/snake-variant.svg" alt="Snake Variant" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/anugrahk21/anugrahk21/output/ocean.gif" alt="Ocean Theme Snake" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anugrahk21/anugrahk21/output/snake-dark-variant.svg" alt="Dark Snake Variant" />
 </p>
 </details>
 
