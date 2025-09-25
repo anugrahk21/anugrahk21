@@ -41,8 +41,8 @@ jobs:
         with:
           github_user_name: anugrahk21
           outputs: |
-            dist/snake.svg?autoplay=1&loop=1
-            dist/snake-dark.svg?palette=github-dark&autoplay=1&loop=1
+            dist/snake.svg?autoplay=true&loop=true
+            dist/snake-dark.svg?palette=github-dark&autoplay=true&loop=true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
