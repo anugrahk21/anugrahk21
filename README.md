@@ -17,6 +17,12 @@
 
 </div>
 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1RTWkONqhnqWiKNxzQHt6lUkYDD06IOxI/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20My%20CV-0078D4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Resume" />
+  </a>
+</div>
+
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/anugrah-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
