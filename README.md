@@ -6,10 +6,10 @@
 
 <div align="center">
   
-  🔭 **I’m currently working on** [Cyber Security](https://github.com/anugrahk21/Cyber-Projects) <br />
+  🔭 **I’m currently working on** [Cyber Security](https://github.com/anugrahk21/Cyber-Projects).<br />
   👯 **I’m looking to collaborate with techies on unique projects to solve real-world issues.** <br />
   🤝 **I’m looking for help with building diverse projects and finding mentorship opportunities.** <br />
-  🌱 **I’m currently learning pentesting, vuln analysis, secuing computer system** <br />
+  🌱 **I’m currently learning penetration testing, vulnerability analysis, and system security.** <br />
   📝 **I research** unique solutions, with a patent filed for Smart Systems and ongoing research in sustainable materials. <br />
   🤖 **I build** AI-integrated tools and Agents (Gemini API), recently completing the Google AI Agents Intensive. <br />
   💬 **Ask me about:** Cyber safety, AI, or just cool tech ideas. <br />
