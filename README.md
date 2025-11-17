@@ -1,19 +1,23 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Anugrah K</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Aspiring Cybersecurity Analyst & Digital Forensics Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrahk21&label=Profile%20views&color=0e75b6&style=flat-square" alt="anugrahk21" /> </p>
 
 <div align="center">
   
-  🔭 **I’m currently working on [Cyber Security](https://github.com/anugrahk21/Cyber-Projects) , [DSA](https://github.com/anugrahk21/Leetcode_DSA).**  
-  👯 **I’m looking to collaborate with techies on unique projects to solve real-world issues.**  
-  🤝 **I’m looking for help with building diverse projects and finding mentorship opportunities.**  
-  🌱 **I’m currently learning Java, system administration, and cybersecurity essentials.**  
-  💬 **Ask me about C, C++, DSA, Python, and AI.**  
-  ⚡ **Fun fact: I’m not a fast jumper; I take my time, which sometimes backfires, especially in execution.**  
+  🔭 **I’m currently working on** [Cyber Security](https://github.com/anugrahk21/Cyber-Projects) <br />
+  👯 **I’m looking to collaborate with techies on unique projects to solve real-world issues.** <br />
+  🤝 **I’m looking for help with building diverse projects and finding mentorship opportunities.** <br />
+  🌱 **I’m currently learning pentesting, vuln analysis, secuing computer system** <br />
+  📝 **I research** unique solutions, with a patent filed for Smart Systems and ongoing research in sustainable materials. <br />
+  🤖 **I build** AI-integrated tools and Agents (Gemini API), recently completing the Google AI Agents Intensive. <br />
+  💬 **Ask me about:** Cyber safety, AI, or just cool tech ideas. <br />
+  <br />
+  ⚡ **Fun fact: I’m not a fast jumper; I take my time, which sometimes backfires, especially in execution.** <br />
+  <br />
 
-👨‍💻 **All of my projects are available at my**  <a href="https://github.com/anugrahk21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  👨‍💻 **All of my projects are available at my** <a href="https://github.com/anugrahk21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
