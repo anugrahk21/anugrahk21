@@ -13,9 +13,7 @@
   📝 **I research** unique solutions, with a patent filed for Smart Systems and ongoing research in sustainable materials. <br />
   🤖 **I build** AI-integrated tools and Agents (Gemini API), recently completing the Google AI Agents Intensive. <br />
   💬 **Ask me about:** Cyber safety, AI, or just cool tech ideas. <br />
-  <br />
   ⚡ **Fun fact: I’m not a fast jumper; I take my time, which sometimes backfires, especially in execution.** <br />
-  <br />
 
   👨‍💻 **All of my projects are available at my** <a href="https://github.com/anugrahk21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
