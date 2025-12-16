@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anugrah K</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Anugrah K</h1>
 <h3 align="center">Cybersecurity & AI Engineering | Building Secure, Intelligent Systems</h3>
 
 <p align="center">
@@ -32,8 +32,8 @@
 ## 💡 What I'm Working On
 
 🔐 **Web Security** — Vulnerability analysis, penetration testing, and secure development practices  
-🤖 **AI Security** — Prompt injection defense, adversarial testing, and LLM safety frameworks  
-� **AI Agents** — Building autonomous systems with Gemini API and multi-agent architectures  
+🛡️ **AI Security** — Prompt injection defense, adversarial testing, and LLM safety frameworks  
+🤖 **AI Agents** — Building autonomous systems with Gemini API and multi-agent architectures  
 ⚡ **Gen AI Development** — Integrating AI into practical applications with real-world impact  
 🔍 **Digital Forensics** — Incident response, evidence analysis, and cybercrime investigation  
 
