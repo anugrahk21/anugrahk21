@@ -19,6 +19,7 @@
 <a href="https://project-cerberus-pi.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Live_Demo-Visit_App-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
+
 <a href="https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764150170773" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-Technical_Writeup-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Writeup" />
 </a>
