@@ -139,14 +139,6 @@
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anugrahk21&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
-
----
-
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNkemc0NGFrbTI5dWd4dTFyd3Jzc2ZwNGoxMGdsNHpyZzFncnRoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" height="300" width="300">
   
