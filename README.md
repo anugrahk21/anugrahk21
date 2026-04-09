@@ -117,9 +117,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahk21&hide_progress=true&theme=dark&layout=compact" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anugrahk21&theme=highcontrast&hide_border=true&count_private=true" width="70%" alt="GitHub Streak"/>
+</div>
 
 ---
 
